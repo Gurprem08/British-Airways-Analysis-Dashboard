@@ -1,10 +1,16 @@
 British Airways Reviews Analysis Dashboard
+
+
 Overview
+
+
 This project involves creating an interactive dashboard to analyze customer reviews for British Airways. The dashboard provides insights into customer sentiment, key areas of feedback, and patterns in customer experiences across various service aspects.
 
 The goal of this analysis is to help British Airways and other stakeholders understand customer feedback, improve service quality, and address common concerns raised by passengers.
 
 Project Structure
+
+
 1. Data Collection
 Customer review data was collected from public sources, focusing on reviews from recent years. The data includes various columns that provide detailed insights, such as:
 
@@ -13,6 +19,8 @@ Content: Full-text content of the review, which allows for sentiment analysis an
 Aircraft, Traveller Type, Seat Type, and Route: Information on the flight experience, allowing for segmentation by type of traveler (e.g., business, leisure) and by seating class.
 Date Flown and Trip Verified: Information on the actual flight date and whether the trip was verified.
 Ratings and Recommendations: The overall rating, specific feedback on whether they recommend the airline, and a verified status.
+
+
 Service Attributes:
 Seat Comfort: Customer feedback on seat quality.
 Cabin Staff Service: Ratings for cabin crew services.
@@ -33,3 +41,4 @@ Category Breakdown: Each aspect of the service, such as ground service, value fo
 
 Recommendations Analysis: Based on the "Recommended" column, we can analyze the percentage of customers who would recommend British Airways to others.
 
+You can view the dashboard using the following link : https://public.tableau.com/views/AirwaysAnalysisDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
